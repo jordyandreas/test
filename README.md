@@ -5,7 +5,7 @@
 
 ## Prerequisites
 
-- [Node.js > 12](https://nodejs.org) and npm (Recommended: Use [nvm](https://github.com/nvm-sh/nvm))
+- [Node.js > 12](https://nodejs.org) and npm (Recommended: Use [nvm](https://github.com/nvm-sh/nvm)) I'm using Node V14
 - [Ruby] 2.7.6 (Recommended: Use [rvm](https://rvm.io/rvm/install))
 - [Watchman](https://facebook.github.io/watchman)
 - [Xcode 12.5](https://developer.apple.com/xcode)
